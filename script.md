@@ -1,3 +1,4 @@
+``` 
 <script>
 
 
@@ -47,3 +48,4 @@ currGclidFormField.value = gclid.value;
 window.addEventListener('load', addGclid);
 
 </script>
+```
